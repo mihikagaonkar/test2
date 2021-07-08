@@ -2,5 +2,4 @@ my name is sathvika
 hi i am chandhini
 how r u
 Fine
-bad
-worse
+good
